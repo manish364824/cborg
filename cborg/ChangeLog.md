@@ -1,6 +1,10 @@
 # Revision history for cborg
 
-## 0.2.3.1  -- 2020-05-10
+## 0.2.4.0  -- 2020-07-05
+
+* Performance improvements
+
+## 0.2.3.0  -- 2020-05-10
 
 * Bounds updates for GHC 8.10
 
